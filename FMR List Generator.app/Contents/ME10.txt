@@ -1,0 +1,16 @@
+12
+/Users/Deb/Desktop/_BV-ME10/ME10-Anat.vmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run5-Order22_SCCD_3DMCTS_LTR_THPGLMF2c-TO-ME10-Anat_FA.trf
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run5-Order22_SCCD_3DMCTS_LTR_THPGLMF2c-TO-ME10-Anat_IA.trf
+/Users/Deb/Desktop/_BV-ME10/ME10_DynamicStaticLOC_Run1-Order0_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_DynamicStaticLOC_Run2-Order0_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run1-Order15_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run2-Order17_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run3-Order18_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run4-Order20_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run5-Order22_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run6-Order24_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run7-Order27_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MotionEncode_Run8-Order30_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MTMSTLocal_Run1_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
+/Users/Deb/Desktop/_BV-ME10/ME10_MTMSTLocal_Run2_SCCD_3DMCTS_LTR_THPGLMF2c.fmr
