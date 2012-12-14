@@ -37,7 +37,7 @@ There are two scripts in this application: an AppleScript script, and a Ruby scr
 
 To edit these files, right-click on the FMR List Generator application, then select Show Package Contents from the popup menu:
 
-    ![Alt text](/ReadMe_Images/screenshot1.png)
+    ![screenshot](https://github.com/tarrlab/FMR-File-List-Generator/blob/master/ReadMe_Images/screenshot1.png)
     
 The Ruby script can be found here:
 
