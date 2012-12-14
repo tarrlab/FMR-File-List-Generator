@@ -1,0 +1,36 @@
+# FMR File List Generator - for BrainVoyager QX
+
+## Purpose
+
+This application generates a text file with the FMR file paths for one or more subject folders that can be read by BrainVoyager's Batch Processing Wizard.
+The application uses AppleScript to obtain paths and user input for the text file name, and Ruby to find .FMR files in the dropped folders and create the text file.
+
+## Installation
+
+Clone repository and move app to /Applications folder.
+
+## Use
+
+One or more folders be dropped onto the app.
+The script assumes that folders containing FMR files are named with "_BV" prefix.
+The app accepts folders containing _BV folders, or _BV folders themselves:
+
+    "Users/aUser/Desktop/_BV-aSubject"
+    "Users/aUser/Desktop/aSubject/_BV-aSubject"
+
+The text file output prints the number of FMR files to be processed on the first line, the FMR file paths, and the target FMR file paths as required by the [Batch Processing Wizard for 4d Data](http://support.brainvoyager.com/documents/Available_Tools/Available_Scripts/batchprocessingwizard/ManualFor4dDataWizard_v14_BVQX24_Jul2012.pdf/) - see pages 34-35. The output resembles the following:
+
+      4
+      /Users/aUser/Desktop/_BV-Subject1/Subject1-Run1.fmr
+      /Users/aUser/Desktop/_BV-Subject1/Subject1-Run2.fmr
+      /Users/aUser/Desktop/_BV-Subject2/Subject2-Run1.fmr
+      /Users/aUser/Desktop/_BV-Subject2/Subject2-Run2.fmr
+      TARGETFMRs
+      /Users/aUser/Desktop/_BV-Subject1/Subject1-Run6.fmr
+      /Users/aUser/Desktop/_BV-Subject1/Subject1-Run6.fmr
+      /Users/aUser/Desktop/_BV-Subject2/Subject2-Run6.fmr
+      /Users/aUser/Desktop/_BV-Subject2/Subject2-Run6.fmr
+
+## Contributors
+
+[Deb Johnson](https://github.com/debjohnson)
