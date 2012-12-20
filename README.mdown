@@ -37,7 +37,7 @@ There are two scripts in this application: an AppleScript script, and a Ruby scr
 
 To edit these files, right-click on the FMR List Generator application, then select Show Package Contents from the popup menu:
 
-![screenshot](https://raw.github.com/tarrlab/FMR-File-List-Generator/master/ReadMe_Images/screenshot1.png)
+![screenshot](https://raw.github.com/tarrlab/FMR-File-List-Generator/master/README_Images/screenshot1.png)
     
 The Ruby script can be found here:
 
@@ -47,7 +47,7 @@ The AppleScript can be found here:
 
     Contents/Resources/Scripts/main.scpt
     
-Alternatively, to edit the AppleScript, open AppleScript Editor (located in Applications/Utilities/), and drag the application onto the AppleScript Editor dock icon or select File...Open, and choose the application.
+Alternatively, to edit the AppleScript open AppleScript Editor (located in Applications/Utilities/), and drag the application onto the AppleScript Editor dock icon, or select File...Open, and choose the application.
 
 ## Contributors
 
